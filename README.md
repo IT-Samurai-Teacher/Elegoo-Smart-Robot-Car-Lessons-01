@@ -16,9 +16,7 @@ This repository is an extension of the IT Samurai Teacher YouTube channel. It co
 ## Getting Started
 
 To get started with the projects and tutorials:
-1. Clone this repository to your local machine.
-2. Navigate to the project or tutorial you are interested in.
-3. Follow the instructions provided in the individual README files within each project or tutorial directory.
+Download all the files to one folder and run the INO file.
 
 ## Stay Connected
 
